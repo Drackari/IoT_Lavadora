@@ -1,0 +1,8 @@
+{
+  "name": "Lavadora IoT",
+  "description": "Control inteligente para lavadora IoT mediante HTTP REST con monitoreo en tiempo real del estado y presostato, ciclos y paro de emergencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
